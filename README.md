@@ -1,3 +1,5 @@
 # responsive
 Resposive site
-zdfnsldhglsdgldshg
+
+Пример работы с адаптивной и семантической версткой
+.mail.html - адаптивная верстка письма
