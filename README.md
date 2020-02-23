@@ -2,7 +2,7 @@
 
 Пример работы с адаптивной версткой
 
-/skin/default/index.tpl - HTML5 верстка
+/skin/default/index.tpl - HTML5, адаптивная и семантическая верстка
 
 /style/style.less - стили на less с использованием адаптивной верстки
 
